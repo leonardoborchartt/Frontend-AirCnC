@@ -12,7 +12,9 @@ import logo from '../src/assets/logo.svg';
 import Routes from './routes';
 
 function App() {
-  return 
+  return (
+    <p></p>
+  );
 }
 
 export default App;
